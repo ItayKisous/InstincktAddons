@@ -10,7 +10,7 @@ displayURL="https://instinckt.co.il" # URL HERE
 credits="" # Your name here
 authors="Insights, Armaros" # Your name here
 description='''
-Description of the mod here
+Mod developed for addons to the Instinckt Pixelmon Official Server.
 '''
 
 [[dependencies.instincktaddons]]
