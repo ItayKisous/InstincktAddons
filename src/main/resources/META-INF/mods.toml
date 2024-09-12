@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="instincktaddons"
+version="0.0.1"
+displayName="Instinckt Pixelmod Addons"
+displayURL="https://instinckt.co.il" # URL HERE
+credits="" # Your name here
+authors="Insights, Armaros" # Your name here
+description='''
+Description of the mod here
+'''
+
+[[dependencies.instincktaddons]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.instincktaddons]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.instincktaddons]]
+    modId="pixelmon"
+    mandatory=true
+    versionRange="[9.1.2,)"
+    ordering="NONE"
+    side="BOTH"
